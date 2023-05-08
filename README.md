@@ -6,7 +6,7 @@
 
 I have always been curious about the world of technology, and I am amazed by how rapidly the tech world develops. This curiosity led me to pursue a place in the Laboratoria Bootcamp, where I have been honing my skills in project development using technologies such as HTML, CSS, and JavaScript.
 
-🔭 I’m currently working on: building a personal portfolio website to showcase my web development projects and skills, online courses.
+🔭 I’m currently working on: building a personal portfolio website to showcase my web development projects,online courses and skills.
 
 🌱 I’m currently learning: new front-end, HTML, CSS,JS
 
