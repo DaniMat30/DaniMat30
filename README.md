@@ -1,7 +1,9 @@
 👩🏻‍💻 About Me👋:
+
 Hi there! 👋 I'm Dani, and I am an entry-level front-end developer passionate about creating beautiful and functional web applications, with skills in JavaScript, CSS, HTML, Figma, and Firebase. 💻
 
 💻 My Background:
+
 I have always been curious about the world of technology, and I am amazed by how rapidly the tech world develops. This curiosity led me to pursue a place in the Laboratoria Bootcamp, where I have been honing my skills in project development using technologies such as HTML, CSS, and JavaScript.
 
 🔭 I’m currently working on: building a personal portfolio website to showcase my web development projects and skills.
