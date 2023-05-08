@@ -1,5 +1,6 @@
 👩🏻‍💻 About Me👋:
- Hi there! 👋 I'm Dani, and I am an entry-level front-end developer passionate about creating beautiful and functional web applications, with skills in JavaScript, CSS, HTML, Figma, and Firebase. 💻
+
+😍 Hi there! 👋 I'm Dani, and I am an entry-level front-end developer passionate about creating beautiful and functional web applications, with skills in JavaScript, CSS, HTML, Figma, and Firebase. 💻
 
 💻 My Background:
 
