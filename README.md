@@ -1,10 +1,13 @@
 👩🏻‍💻 About Me 👋
+
 Hi there! 👋 I'm Dani, and I am an entry-level front-end developer passionate about creating beautiful and functional web applications. 💻
 
 💻 My Background
+
 I have always been curious about the world of technology, and I am amazed by how rapidly the tech world develops. This curiosity led me to pursue a place in the Laboratoria Bootcamp, where I have been honing my skills in project development using technologies such as HTML, CSS, and JavaScript.
 
 🌟 My Skills
+
 🔹 HTML/CSS/JavaScript
 🔹 Git
 
