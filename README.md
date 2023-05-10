@@ -2,7 +2,6 @@
   <img src= "https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzU5YTFhN2ZkNDY0YzhlMWM3YzMyOGZkOWZiZTc5OWExZjJiM2EzMSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/RbDKaczqWovIugyJmW/giphy.gif" width="400"  > 
 </div>
 
-
 <h1>👋 Hi there! 👋</h1>
 I'm Dani, and I am an entry-level front-end developer passionate about creating beautiful and functional web applications, with skills in JavaScript, CSS, HTML, Figma, and Firebase. 💻.
 
@@ -15,8 +14,6 @@ I'm Dani, and I am an entry-level front-end developer passionate about creating 
 🤔 I’m looking for help with: improving my front-end development skills and become better  <br> 
 💬 Ask me about: my experience in web development, my favorite front-end technologies, or any tips for beginners in the field.  <br> 
 ⚡ Fun fact: I enjoy practicing dance, yoga, and meditation. <br> 
-💬 Ask me about: my experience in web development, my favorite front-end technologies, or any tips for beginners in the field. <br> 
-⚡ Fun fact: I enjoy practicing dance, yoga, and meditation.  <br> 
 
 <h2>🌸Languages and tools 🌸</h2>
   <div>
