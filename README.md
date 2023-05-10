@@ -15,7 +15,7 @@ I'm Dani, and I am an entry-level front-end developer passionate about creating 
 💬 Ask me about: my experience in web development, my favorite front-end technologies, or any tips for beginners in the field.  <br> 
 ⚡ Fun fact: I enjoy practicing dance, yoga, and meditation. <br> 
 
-<h2>🌸Languages and tools 🌸</h2>
+<h2>🔥Languages and tools 🔥</h2>
   <div>
   <img src= "https://www.freepnglogos.com/uploads/javascript/logo-html-5-css-javascript-source-code-for-the-taking-23.png" width="200/> 
     <img src= " " /> 
